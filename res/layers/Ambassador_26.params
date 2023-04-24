@@ -44,6 +44,7 @@ HSM_DEVICE_SCALE = "146.200000"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 TubeDiffuseImage = "../../Graphics/_Common/phosphor_01.png"
+//TubeDiffuseImage = "../../Graphics/_Common/mirror_girl_2.png"
 TubeStaticReflectionImage = "../../Graphics/_Common/Tube_Reflection_01.png"
 BackgroundImage = "../../Graphics/_Backgrounds/Ambassador_26_Background.jpg"
 DeviceImage = "../../Graphics/Ambassador_26/Ambassador_26.png"

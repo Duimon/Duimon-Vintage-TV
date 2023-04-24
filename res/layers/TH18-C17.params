@@ -43,7 +43,9 @@ HSM_DEVICE_POS_Y = "-2.099999"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 TubeDiffuseImage = "../../Graphics/_Common/phosphor_01.png"
+//TubeDiffuseImage = "../../Graphics/_Common/mirror_girl_2.png"
 TubeStaticReflectionImage = "../../Graphics/_Common/Tube_Reflection_01.png"
 BackgroundImage = "../../Graphics/_Backgrounds/Blue_Wallpaper.jpg"
 DeviceImage = "../../Graphics/TH18-C17/TH18-C17.png"
 LEDImage = "../../Graphics/TH18-C17/TH18-C17_LED.png"
+ReflectionMaskImage = "../../Graphics/TH18-C17/TH18-C17_Reflection_Mask.png"

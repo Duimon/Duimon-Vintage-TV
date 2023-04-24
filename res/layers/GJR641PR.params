@@ -42,6 +42,9 @@ HSM_DEVICE_POS_X = "9.350018"
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
+TubeDiffuseImage = "../../Graphics/_Common/phosphor_01.png"
+//TubeDiffuseImage = "../../Graphics/_Common/mirror_girl_2.png"
+TubeStaticReflectionImage = "../../Graphics/_Common/Tube_Reflection_01.png"
 DeviceImage = "../../Graphics/GJR641PR/GJR641PR.png"
 BackgroundImage = "../../Graphics/_Backgrounds/Blue_Canvas.jpg"
 LEDImage = "../../Graphics/GJR641PR/GJR641PR_LED.png"
