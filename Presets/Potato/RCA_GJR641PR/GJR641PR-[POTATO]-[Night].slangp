@@ -32,6 +32,8 @@
 // DEVICE :: SCALING
 #reference "../../../res/scale/GJR641PR.params"
 
+// DEVICE :: CRT
+
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
 #reference "../../../res/layers_pot/GJR641PR_night.params"

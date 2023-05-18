@@ -6,6 +6,8 @@ I have chosen to split this project from my main collection to make it as painle
 
 The boilerplate is stripped of any graphics overrides because making changes to the bezel dimensions or component colors doesn't make sense. Shader overrides (Both local and global.) still remain. Please see the boilerplate introduction guide, in my main repo, for information on their use.
 
+Various assets for use in these presets can be found in my "Front-End_Assets" repo, in the "Vintage_TV" folder.
+
 I hope you enjoy using these presets as much as I did creating them.
 
 ___

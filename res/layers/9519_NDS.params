@@ -1,0 +1,60 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_LAYER_ORDER = "7.000000"
+HSM_LED_FOLLOW_LAYER = "4.000000"
+HSM_LED_FOLLOW_MODE = "1.000000"
+HSM_LED_OPACITY = "0.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_FOLLOW_LAYER = "3.000000"
+HSM_DEVICE_SCALE = "103.699944"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "6.000000"
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_LAYER_ORDER = "5.000000"
+HSM_DECAL_FOLLOW_LAYER = "4.000000"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_AMBIENT_LIGHTING_MULTIPLIER = "0.000000"
+HSM_TOP_FOLLOW_LAYER = "4.000000"
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_AMBIENT_LIGHTING_SWAP_IMAGE_MODE = "2.000000"
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+TubeDiffuseImage = "../../Graphics/_Common/phosphor_01.png"
+//TubeDiffuseImage = "../../Graphics/_Common/mirror_girl_2.png"
+TubeStaticReflectionImage = "../../Graphics/_Common/Tube_Reflection_01.png"
+BackgroundImage = "../../Graphics/_Backgrounds/Blue_Canvas.jpg"
+DeviceImage = "../../Graphics/9519/9519.png"
+DecalImage = "../../Graphics/9519/9519_Decal.png"
+LEDImage = "../../Graphics/9519/9519_LED.png"
+TopLayerImage = "../../Graphics/9519/NDS/color/$GAME$.png"

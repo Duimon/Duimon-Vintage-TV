@@ -32,6 +32,8 @@
 // DEVICE :: SCALING
 #reference "../../../res/scale/Ambassador_26.params"
 
+// DEVICE :: CRT
+
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
 #reference "../../../res/layers_pot/Ambassador_26_night.params"
