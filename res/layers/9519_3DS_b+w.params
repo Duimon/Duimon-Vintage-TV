@@ -50,6 +50,7 @@ HSM_DECAL_POS_X = "4.900000"
 
 // TOP EXTRA
 // ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_SOURCE_MATTE_TYPE = "1.000000"
 HSM_TOP_AMBIENT_LIGHTING_MULTIPLIER = "0.000000"
 HSM_TOP_FOLLOW_LAYER = "5.000000"
 
